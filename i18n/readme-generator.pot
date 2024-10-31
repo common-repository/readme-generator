@@ -1,0 +1,327 @@
+# This file is distributed under the same license as the Readme Generator package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/readme-generator\n"
+"POT-Creation-Date: 2013-09-12 12:57:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: readme-generator.php:127
+msgid "About"
+msgstr ""
+
+#: readme-generator.php:227
+msgid "Advanced Options"
+msgstr ""
+
+#: include/generate-help.php:9
+msgid "Cannot write to directory: "%s"."
+msgstr ""
+
+#: include/generate-pot.php:33
+#: include/generate-readme.php:11
+msgid "Cannot write to file: "%s"."
+msgstr ""
+
+#: readme-generator.php:228
+msgid "Category of all posts/pages that by default are about your plugins"
+msgstr ""
+
+#: readme-generator.php:179
+msgid "Comma separated list of tags"
+msgstr ""
+
+#: readme-generator.php:186
+msgid "Context Help File Location"
+msgstr ""
+
+#: readme-generator.php:215
+#: readme-generator.php:177
+msgid "Contributors"
+msgstr ""
+
+#: readme-generator.php:231
+#: readme-generator.php:190
+msgid "Create POT"
+msgstr ""
+
+#: readme-generator.php:216
+msgid "Default Link to Donation Page"
+msgstr ""
+
+#: readme-generator.php:232
+msgid "Default Location of POT file, relative to the readme.txt location %SLUG% is replaced with plugin-name"
+msgstr ""
+
+#: include/show-options.php:43
+msgid "Default Options Created."
+msgstr ""
+
+#: readme-generator.php:214
+msgid "Default Plugin Options"
+msgstr ""
+
+#: readme-generator.php:215
+msgid "Default Plugin contributors"
+msgstr ""
+
+#: readme-generator.php:218
+msgid "Default minimum version of Wordpress required to work"
+msgstr ""
+
+#: readme-generator.php:231
+msgid "Default setting for Generation of POT file"
+msgstr ""
+
+#: readme-generator.php:219
+msgid "Default version of Wordpress tested against."
+msgstr ""
+
+#: include/insert-form.php:29
+msgid "Directory does not exists"
+msgstr ""
+
+#: include/insert-form.php:27
+msgid "Directory exists, and is NOT writeable. Currently no readme.txt"
+msgstr ""
+
+#: include/insert-form.php:25
+msgid "Directory exists, and is writeable. Currently no readme.txt"
+msgstr ""
+
+#: readme-generator.php:216
+#: readme-generator.php:178
+msgid "Donate Link"
+msgstr ""
+
+#: readme-generator.php:185
+msgid "Enable this to create the help files."
+msgstr ""
+
+#: readme-generator.php:175
+msgid "Enable this to create the readme.txt file."
+msgstr ""
+
+#: readme-generator.php:190
+msgid "Enable this to find all i18n strings and Generate a POT file"
+msgstr ""
+
+#: readme-generator.php:171
+msgid "Enabled"
+msgstr ""
+
+#: readme-generator.php:193
+msgid "Generate"
+msgstr ""
+
+#: readme-generator.php:185
+msgid "Generate Help Files"
+msgstr ""
+
+#: readme-generator.php:175
+msgid "Generate Read Me"
+msgstr ""
+
+#: readme-generator.php:106
+#: readme-generator.php:107
+msgid "Generate Readme File"
+msgstr ""
+
+#: readme-generator.php:220
+msgid "Heading Type"
+msgstr ""
+
+#: readme-generator.php:187
+msgid "Help Sections"
+msgstr ""
+
+#: readme-generator.php:188
+msgid "Ignore Sections"
+msgstr ""
+
+#: readme-generator.php:178
+msgid "Link to Donation Page"
+msgstr ""
+
+#: readme-generator.php:191
+msgid "Location to place POT file, relative to the plugin directory"
+msgstr ""
+
+#: readme-generator.php:186
+msgid "Location to place contextual help files relative to the plugin directory"
+msgstr ""
+
+#: readme-generator.php:184
+msgid "Location to place readme.txt, relative to the plugin directory"
+msgstr ""
+
+#: readme-generator.php:100
+msgid "Manage Readme Gen Options"
+msgstr ""
+
+#: readme-generator.php:180
+msgid "Minimum Version of Wordpress required to work"
+msgstr ""
+
+#: readme-generator.php:176
+msgid "Name of the plugin"
+msgstr ""
+
+#: readme-generator.php:402
+msgid "No actions requested."
+msgstr ""
+
+#: readme-generator.php:126
+msgid "Options"
+msgstr ""
+
+#: include/show-options.php:31
+msgid "Options Updated."
+msgstr ""
+
+#: readme-generator.php:232
+#: readme-generator.php:191
+msgid "POT Location"
+msgstr ""
+
+#: readme-generator.php:229
+msgid "Parent Page"
+msgstr ""
+
+#: readme-generator.php:229
+msgid "Parent Post/Page to all your plugin pages"
+msgstr ""
+
+#: readme-generator.php:189
+msgid "Parse Sub-pages"
+msgstr ""
+
+#: readme-generator.php:189
+msgid "Parse any child pages to this one and add to the readme file"
+msgstr ""
+
+#: readme-generator.php:228
+msgid "Plugin Category"
+msgstr ""
+
+#: readme-generator.php:174
+msgid "Plugin Header Information"
+msgstr ""
+
+#: readme-generator.php:176
+msgid "Plugin Name"
+msgstr ""
+
+#: readme-generator.php:177
+msgid "Plugin contributors"
+msgstr ""
+
+#: readme-generator.php:230
+msgid "Readme Filename"
+msgstr ""
+
+#: readme-generator.php:100
+msgid "Readme Gen"
+msgstr ""
+
+#: readme-generator.php:337
+msgid "Readme Generator Options"
+msgstr ""
+
+#: readme-generator.php:184
+msgid "Readme Location"
+msgstr ""
+
+#: readme-generator.php:218
+#: readme-generator.php:180
+msgid "Required Version"
+msgstr ""
+
+#: readme-generator.php:187
+msgid "Sections in this post that should be included in the Contextual Help File"
+msgstr ""
+
+#: readme-generator.php:188
+msgid "Sections in this post that should not be included in the readme.txt"
+msgstr ""
+
+#: readme-generator.php:171
+msgid "Select to enable Readme Generator Options"
+msgstr ""
+
+#: readme-generator.php:151
+msgid "Settings"
+msgstr ""
+
+#: readme-generator.php:183
+msgid "Settings to Modify Generator Behaviour"
+msgstr ""
+
+#: include/insert-form.php:34
+msgid "Short Plugin description, goes here.nn"
+msgstr ""
+
+#: readme-generator.php:182
+msgid "Stable Version"
+msgstr ""
+
+#: readme-generator.php:182
+msgid "Stable version of the Plugin"
+msgstr ""
+
+#: readme-generator.php:221
+msgid "Sub-Heading Type"
+msgstr ""
+
+#: readme-generator.php:179
+#: readme-generator.php:217
+msgid "Tags"
+msgstr ""
+
+#: readme-generator.php:217
+msgid "Tags that are common to alot of your plugins."
+msgstr ""
+
+#: readme-generator.php:194
+msgid "Template"
+msgstr ""
+
+#: readme-generator.php:219
+#: readme-generator.php:181
+msgid "Tested Version"
+msgstr ""
+
+#: readme-generator.php:230
+msgid "The name of the file to generate, change to avoid overwriting the original"
+msgstr ""
+
+#: readme-generator.php:221
+msgid "Type of HTML element for Sub Headings"
+msgstr ""
+
+#: readme-generator.php:220
+msgid "Type of HTML element for Top Level Heading"
+msgstr ""
+
+#: readme-generator.php:235
+#: include/show-options.php:19
+msgid "Update Options"
+msgstr ""
+
+#: readme-generator.php:181
+msgid "Version of Wordpress tested against."
+msgstr ""
+
+#: include/insert-form.php:21
+msgid "readme.txt exists, and is writeable."
+msgstr ""
+
+#: include/insert-form.php:23
+msgid "readme.txt exists, but is NOT writeable."
+msgstr ""
+

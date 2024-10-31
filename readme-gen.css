@@ -1,0 +1,17 @@
+.readme-gen-info-heading {
+ padding: 2px;
+ margin-top: 2px;
+ margin-bottom: 6px;
+ font: italic normal normal 24px/29px Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+ font-size: 1.5em;
+}
+.readme-gen-info dt{
+ display:inline;
+ float:left;
+ width:40%;
+ padding-left: 4px;
+}
+
+.readme-gen-info dd {
+ margin: 0px 0px 0px 41%;
+}
